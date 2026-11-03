@@ -1,5 +1,5 @@
 SERVIDORES DE BAHÍANET
 
--Servidor web
+-Servidor web - Ubuntu Server
 -Servidor de copias de seguridad
 -Servidor de monitorización
