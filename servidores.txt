@@ -3,3 +3,4 @@ SERVIDORES DE BAHÍANET
 -Servidor web - Ubuntu Server
 -Servidor de copias de seguridad
 -Servidor de monitorización
+-Servidor DNS
