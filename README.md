@@ -7,3 +7,6 @@
 -monitorizacion.txt: Directivas e información sobre el sistema de monitorización 
 
 ##Versión actual v1.0
+
+##Control de versiones
+Este proyecto utiliza Git y GitHub para gestionar sus versiones
