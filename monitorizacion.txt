@@ -1,0 +1,9 @@
+MONITORIZACIÓN DE BAHÍANET
+
+Objetivo:
+Supervisar el estado de los servidores.
+
+Equipos supervisados:
+-Servidor web
+-Servidor de copias de seguridad
+
